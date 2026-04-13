@@ -1,0 +1,913 @@
+ccaa,year,sexo,tasa_bruta_eso
+Andalucia,1999,hombre,65.8
+Andalucia,1999,mujer,81.2
+Andalucia,2000,hombre,66.2
+Andalucia,2000,mujer,79.9
+Andalucia,2001,hombre,59.0
+Andalucia,2001,mujer,74.9
+Andalucia,2002,hombre,58.6
+Andalucia,2002,mujer,75.3
+Andalucia,2003,hombre,56.7
+Andalucia,2003,mujer,77.0
+Andalucia,2004,hombre,56.8
+Andalucia,2004,mujer,72.1
+Andalucia,2005,hombre,57.4
+Andalucia,2005,mujer,73.1
+Andalucia,2006,hombre,57.6
+Andalucia,2006,mujer,72.9
+Andalucia,2007,hombre,57.8
+Andalucia,2007,mujer,71.2
+Andalucia,2008,hombre,64.4
+Andalucia,2008,mujer,78.0
+Andalucia,2009,hombre,67.8
+Andalucia,2009,mujer,79.8
+Andalucia,2010,hombre,67.5
+Andalucia,2010,mujer,79.4
+Andalucia,2011,hombre,67.6
+Andalucia,2011,mujer,79.7
+Andalucia,2012,hombre,68.7
+Andalucia,2012,mujer,80.3
+Andalucia,2013,hombre,68.5
+Andalucia,2013,mujer,80.7
+Andalucia,2014,hombre,69.7
+Andalucia,2014,mujer,81.8
+Andalucia,2015,hombre,71.9
+Andalucia,2015,mujer,83.6
+Andalucia,2016,hombre,68.3
+Andalucia,2016,mujer,80.3
+Andalucia,2017,hombre,69.8
+Andalucia,2017,mujer,81.6
+Andalucia,2018,hombre,71.8
+Andalucia,2018,mujer,82.4
+Andalucia,2019,hombre,76.7
+Andalucia,2019,mujer,86.8
+Andalucia,2020,hombre,76.8
+Andalucia,2020,mujer,85.1
+Andalucia,2021,hombre,73.6
+Andalucia,2021,mujer,83.0
+Andalucia,2022,hombre,77.1
+Andalucia,2022,mujer,85.5
+Aragon,1999,hombre,69.0
+Aragon,1999,mujer,82.3
+Aragon,2000,hombre,69.1
+Aragon,2000,mujer,82.2
+Aragon,2001,hombre,68.6
+Aragon,2001,mujer,83.1
+Aragon,2002,hombre,69.3
+Aragon,2002,mujer,83.7
+Aragon,2003,hombre,65.2
+Aragon,2003,mujer,77.2
+Aragon,2004,hombre,64.4
+Aragon,2004,mujer,81.3
+Aragon,2005,hombre,65.2
+Aragon,2005,mujer,78.1
+Aragon,2006,hombre,67.2
+Aragon,2006,mujer,78.2
+Aragon,2007,hombre,64.8
+Aragon,2007,mujer,76.2
+Aragon,2008,hombre,65.9
+Aragon,2008,mujer,79.8
+Aragon,2009,hombre,66.9
+Aragon,2009,mujer,78.8
+Aragon,2010,hombre,70.4
+Aragon,2010,mujer,81.2
+Aragon,2011,hombre,67.6
+Aragon,2011,mujer,79.0
+Aragon,2012,hombre,72.8
+Aragon,2012,mujer,80.7
+Aragon,2013,hombre,71.4
+Aragon,2013,mujer,80.2
+Aragon,2014,hombre,70.7
+Aragon,2014,mujer,77.8
+Aragon,2015,hombre,71.6
+Aragon,2015,mujer,83.1
+Aragon,2016,hombre,70.9
+Aragon,2016,mujer,82.4
+Aragon,2017,hombre,70.6
+Aragon,2017,mujer,79.5
+Aragon,2018,hombre,71.3
+Aragon,2018,mujer,82.9
+Aragon,2019,hombre,81.0
+Aragon,2019,mujer,87.8
+Aragon,2020,hombre,75.7
+Aragon,2020,mujer,86.9
+Aragon,2021,hombre,73.5
+Aragon,2021,mujer,82.8
+Aragon,2022,hombre,75.7
+Aragon,2022,mujer,82.8
+Asturias,1999,hombre,75.0
+Asturias,1999,mujer,91.5
+Asturias,2000,hombre,78.0
+Asturias,2000,mujer,90.7
+Asturias,2001,hombre,77.4
+Asturias,2001,mujer,86.9
+Asturias,2002,hombre,80.5
+Asturias,2002,mujer,91.0
+Asturias,2003,hombre,76.2
+Asturias,2003,mujer,87.3
+Asturias,2004,hombre,83.3
+Asturias,2004,mujer,90.6
+Asturias,2005,hombre,78.4
+Asturias,2005,mujer,91.2
+Asturias,2006,hombre,77.0
+Asturias,2006,mujer,85.8
+Asturias,2007,hombre,81.2
+Asturias,2007,mujer,86.1
+Asturias,2008,hombre,84.1
+Asturias,2008,mujer,93.1
+Asturias,2009,hombre,81.9
+Asturias,2009,mujer,91.9
+Asturias,2010,hombre,81.5
+Asturias,2010,mujer,89.5
+Asturias,2011,hombre,80.5
+Asturias,2011,mujer,88.1
+Asturias,2012,hombre,80.4
+Asturias,2012,mujer,87.0
+Asturias,2013,hombre,83.2
+Asturias,2013,mujer,90.4
+Asturias,2014,hombre,82.1
+Asturias,2014,mujer,91.2
+Asturias,2015,hombre,85.9
+Asturias,2015,mujer,90.2
+Asturias,2016,hombre,76.7
+Asturias,2016,mujer,84.2
+Asturias,2017,hombre,80.2
+Asturias,2017,mujer,86.5
+Asturias,2018,hombre,80.9
+Asturias,2018,mujer,88.6
+Asturias,2019,hombre,88.6
+Asturias,2019,mujer,91.7
+Asturias,2020,hombre,83.8
+Asturias,2020,mujer,91.3
+Asturias,2021,hombre,85.5
+Asturias,2021,mujer,89.2
+Asturias,2022,hombre,83.2
+Asturias,2022,mujer,87.9
+Canarias,1999,hombre,60.2
+Canarias,1999,mujer,75.5
+Canarias,2000,hombre,60.1
+Canarias,2000,mujer,75.2
+Canarias,2001,hombre,61.4
+Canarias,2001,mujer,76.8
+Canarias,2002,hombre,61.6
+Canarias,2002,mujer,79.6
+Canarias,2003,hombre,60.1
+Canarias,2003,mujer,76.5
+Canarias,2004,hombre,58.6
+Canarias,2004,mujer,75.5
+Canarias,2005,hombre,59.2
+Canarias,2005,mujer,76.0
+Canarias,2006,hombre,60.8
+Canarias,2006,mujer,76.1
+Canarias,2007,hombre,63.4
+Canarias,2007,mujer,78.5
+Canarias,2008,hombre,70.1
+Canarias,2008,mujer,83.2
+Canarias,2009,hombre,69.4
+Canarias,2009,mujer,81.7
+Canarias,2010,hombre,64.2
+Canarias,2010,mujer,76.2
+Canarias,2011,hombre,71.0
+Canarias,2011,mujer,77.3
+Canarias,2012,hombre,69.8
+Canarias,2012,mujer,78.4
+Canarias,2013,hombre,70.1
+Canarias,2013,mujer,80.8
+Canarias,2014,hombre,72.2
+Canarias,2014,mujer,82.8
+Canarias,2015,hombre,74.5
+Canarias,2015,mujer,85.3
+Canarias,2016,hombre,68.0
+Canarias,2016,mujer,79.0
+Canarias,2017,hombre,73.2
+Canarias,2017,mujer,84.5
+Canarias,2018,hombre,75.5
+Canarias,2018,mujer,85.0
+Canarias,2019,hombre,81.8
+Canarias,2019,mujer,90.2
+Canarias,2020,hombre,81.4
+Canarias,2020,mujer,89.0
+Canarias,2021,hombre,77.8
+Canarias,2021,mujer,85.6
+Canarias,2022,hombre,78.4
+Canarias,2022,mujer,86.0
+Cantabria,1999,hombre,68.1
+Cantabria,1999,mujer,84.8
+Cantabria,2000,hombre,72.6
+Cantabria,2000,mujer,89.6
+Cantabria,2001,hombre,69.0
+Cantabria,2001,mujer,85.2
+Cantabria,2002,hombre,73.2
+Cantabria,2002,mujer,85.8
+Cantabria,2003,hombre,70.3
+Cantabria,2003,mujer,83.2
+Cantabria,2004,hombre,71.5
+Cantabria,2004,mujer,86.3
+Cantabria,2005,hombre,69.6
+Cantabria,2005,mujer,85.3
+Cantabria,2006,hombre,75.4
+Cantabria,2006,mujer,86.1
+Cantabria,2007,hombre,73.7
+Cantabria,2007,mujer,83.0
+Cantabria,2008,hombre,80.8
+Cantabria,2008,mujer,87.5
+Cantabria,2009,hombre,85.6
+Cantabria,2009,mujer,92.3
+Cantabria,2010,hombre,78.4
+Cantabria,2010,mujer,87.5
+Cantabria,2011,hombre,77.8
+Cantabria,2011,mujer,87.5
+Cantabria,2012,hombre,78.5
+Cantabria,2012,mujer,87.7
+Cantabria,2013,hombre,82.0
+Cantabria,2013,mujer,86.3
+Cantabria,2014,hombre,77.3
+Cantabria,2014,mujer,86.6
+Cantabria,2015,hombre,83.4
+Cantabria,2015,mujer,89.2
+Cantabria,2016,hombre,75.5
+Cantabria,2016,mujer,82.7
+Cantabria,2017,hombre,75.1
+Cantabria,2017,mujer,88.6
+Cantabria,2018,hombre,79.4
+Cantabria,2018,mujer,88.3
+Cantabria,2019,hombre,83.2
+Cantabria,2019,mujer,91.4
+Cantabria,2020,hombre,85.4
+Cantabria,2020,mujer,89.4
+Cantabria,2021,hombre,83.5
+Cantabria,2021,mujer,88.8
+Cantabria,2022,hombre,81.8
+Cantabria,2022,mujer,87.5
+Castilla La Mancha,1999,hombre,56.1
+Castilla La Mancha,1999,mujer,75.1
+Castilla La Mancha,2000,hombre,56.9
+Castilla La Mancha,2000,mujer,77.0
+Castilla La Mancha,2001,hombre,56.9
+Castilla La Mancha,2001,mujer,73.4
+Castilla La Mancha,2002,hombre,57.5
+Castilla La Mancha,2002,mujer,76.4
+Castilla La Mancha,2003,hombre,57.5
+Castilla La Mancha,2003,mujer,77.0
+Castilla La Mancha,2004,hombre,58.5
+Castilla La Mancha,2004,mujer,76.5
+Castilla La Mancha,2005,hombre,56.2
+Castilla La Mancha,2005,mujer,74.4
+Castilla La Mancha,2006,hombre,54.5
+Castilla La Mancha,2006,mujer,73.9
+Castilla La Mancha,2007,hombre,56.2
+Castilla La Mancha,2007,mujer,72.5
+Castilla La Mancha,2008,hombre,58.8
+Castilla La Mancha,2008,mujer,75.0
+Castilla La Mancha,2009,hombre,60.2
+Castilla La Mancha,2009,mujer,75.7
+Castilla La Mancha,2010,hombre,62.3
+Castilla La Mancha,2010,mujer,75.1
+Castilla La Mancha,2011,hombre,64.9
+Castilla La Mancha,2011,mujer,78.0
+Castilla La Mancha,2012,hombre,64.9
+Castilla La Mancha,2012,mujer,77.8
+Castilla La Mancha,2013,hombre,66.3
+Castilla La Mancha,2013,mujer,79.6
+Castilla La Mancha,2014,hombre,67.2
+Castilla La Mancha,2014,mujer,78.7
+Castilla La Mancha,2015,hombre,69.5
+Castilla La Mancha,2015,mujer,81.7
+Castilla La Mancha,2016,hombre,62.2
+Castilla La Mancha,2016,mujer,75.7
+Castilla La Mancha,2017,hombre,66.9
+Castilla La Mancha,2017,mujer,79.2
+Castilla La Mancha,2018,hombre,67.4
+Castilla La Mancha,2018,mujer,79.0
+Castilla La Mancha,2019,hombre,77.9
+Castilla La Mancha,2019,mujer,88.1
+Castilla La Mancha,2020,hombre,71.9
+Castilla La Mancha,2020,mujer,82.4
+Castilla La Mancha,2021,hombre,69.9
+Castilla La Mancha,2021,mujer,79.3
+Castilla La Mancha,2022,hombre,72.5
+Castilla La Mancha,2022,mujer,81.4
+Castilla y Leon,1999,hombre,68.6
+Castilla y Leon,1999,mujer,85.7
+Castilla y Leon,2000,hombre,70.1
+Castilla y Leon,2000,mujer,85.2
+Castilla y Leon,2001,hombre,70.9
+Castilla y Leon,2001,mujer,85.7
+Castilla y Leon,2002,hombre,69.3
+Castilla y Leon,2002,mujer,84.4
+Castilla y Leon,2003,hombre,72.8
+Castilla y Leon,2003,mujer,88.0
+Castilla y Leon,2004,hombre,69.6
+Castilla y Leon,2004,mujer,86.2
+Castilla y Leon,2005,hombre,70.7
+Castilla y Leon,2005,mujer,82.8
+Castilla y Leon,2006,hombre,68.1
+Castilla y Leon,2006,mujer,82.2
+Castilla y Leon,2007,hombre,68.5
+Castilla y Leon,2007,mujer,80.2
+Castilla y Leon,2008,hombre,71.5
+Castilla y Leon,2008,mujer,83.5
+Castilla y Leon,2009,hombre,72.4
+Castilla y Leon,2009,mujer,84.5
+Castilla y Leon,2010,hombre,73.2
+Castilla y Leon,2010,mujer,81.8
+Castilla y Leon,2011,hombre,73.1
+Castilla y Leon,2011,mujer,84.5
+Castilla y Leon,2012,hombre,73.6
+Castilla y Leon,2012,mujer,83.5
+Castilla y Leon,2013,hombre,77.7
+Castilla y Leon,2013,mujer,87.1
+Castilla y Leon,2014,hombre,75.5
+Castilla y Leon,2014,mujer,85.7
+Castilla y Leon,2015,hombre,77.9
+Castilla y Leon,2015,mujer,89.0
+Castilla y Leon,2016,hombre,74.3
+Castilla y Leon,2016,mujer,82.9
+Castilla y Leon,2017,hombre,76.1
+Castilla y Leon,2017,mujer,83.6
+Castilla y Leon,2018,hombre,77.6
+Castilla y Leon,2018,mujer,85.6
+Castilla y Leon,2019,hombre,82.9
+Castilla y Leon,2019,mujer,91.1
+Castilla y Leon,2020,hombre,80.6
+Castilla y Leon,2020,mujer,86.4
+Castilla y Leon,2021,hombre,79.3
+Castilla y Leon,2021,mujer,85.1
+Castilla y Leon,2022,hombre,77.2
+Castilla y Leon,2022,mujer,84.1
+Cataluña,1999,hombre,68.5
+Cataluña,1999,mujer,82.7
+Cataluña,2000,hombre,69.5
+Cataluña,2000,mujer,81.7
+Cataluña,2001,hombre,70.2
+Cataluña,2001,mujer,82.6
+Cataluña,2002,hombre,70.0
+Cataluña,2002,mujer,81.1
+Cataluña,2003,hombre,69.0
+Cataluña,2003,mujer,79.5
+Cataluña,2004,hombre,66.5
+Cataluña,2004,mujer,77.5
+Cataluña,2005,hombre,66.2
+Cataluña,2005,mujer,77.3
+Cataluña,2006,hombre,67.5
+Cataluña,2006,mujer,78.5
+Cataluña,2007,hombre,69.9
+Cataluña,2007,mujer,80.1
+Cataluña,2008,hombre,71.1
+Cataluña,2008,mujer,81.4
+Cataluña,2009,hombre,72.3
+Cataluña,2009,mujer,81.5
+Cataluña,2010,hombre,73.2
+Cataluña,2010,mujer,82.9
+Cataluña,2011,hombre,76.2
+Cataluña,2011,mujer,86.1
+Cataluña,2012,hombre,77.1
+Cataluña,2012,mujer,84.3
+Cataluña,2013,hombre,77.6
+Cataluña,2013,mujer,86.6
+Cataluña,2014,hombre,78.8
+Cataluña,2014,mujer,87.4
+Cataluña,2015,hombre,78.7
+Cataluña,2015,mujer,87.3
+Cataluña,2016,hombre,79.3
+Cataluña,2016,mujer,87.7
+Cataluña,2017,hombre,79.8
+Cataluña,2017,mujer,88.1
+Cataluña,2018,hombre,80.2
+Cataluña,2018,mujer,88.1
+Cataluña,2019,hombre,84.1
+Cataluña,2019,mujer,89.7
+Cataluña,2020,hombre,83.7
+Cataluña,2020,mujer,89.6
+Cataluña,2021,hombre,83.0
+Cataluña,2021,mujer,87.8
+Cataluña,2022,hombre,83.1
+Cataluña,2022,mujer,88.9
+Ceuta,1999,hombre,51.5
+Ceuta,1999,mujer,53.5
+Ceuta,2000,hombre,49.5
+Ceuta,2000,mujer,56.6
+Ceuta,2001,hombre,48.0
+Ceuta,2001,mujer,59.8
+Ceuta,2002,hombre,43.2
+Ceuta,2002,mujer,54.1
+Ceuta,2003,hombre,53.1
+Ceuta,2003,mujer,54.6
+Ceuta,2004,hombre,42.4
+Ceuta,2004,mujer,58.1
+Ceuta,2005,hombre,52.1
+Ceuta,2005,mujer,47.2
+Ceuta,2006,hombre,46.3
+Ceuta,2006,mujer,54.2
+Ceuta,2007,hombre,41.8
+Ceuta,2007,mujer,55.7
+Ceuta,2008,hombre,48.1
+Ceuta,2008,mujer,58.8
+Ceuta,2009,hombre,53.0
+Ceuta,2009,mujer,64.9
+Ceuta,2010,hombre,47.8
+Ceuta,2010,mujer,58.0
+Ceuta,2011,hombre,54.3
+Ceuta,2011,mujer,51.3
+Ceuta,2012,hombre,47.8
+Ceuta,2012,mujer,56.1
+Ceuta,2013,hombre,54.4
+Ceuta,2013,mujer,71.5
+Ceuta,2014,hombre,56.5
+Ceuta,2014,mujer,65.4
+Ceuta,2015,hombre,61.7
+Ceuta,2015,mujer,74.6
+Ceuta,2016,hombre,46.6
+Ceuta,2016,mujer,66.1
+Ceuta,2017,hombre,48.4
+Ceuta,2017,mujer,61.3
+Ceuta,2018,hombre,47.6
+Ceuta,2018,mujer,58.7
+Ceuta,2019,hombre,67.5
+Ceuta,2019,mujer,75.1
+Ceuta,2020,hombre,58.7
+Ceuta,2020,mujer,70.2
+Ceuta,2021,hombre,51.8
+Ceuta,2021,mujer,70.3
+Ceuta,2022,hombre,61.9
+Ceuta,2022,mujer,65.0
+Comunidad Valenciana,1999,hombre,65.7
+Comunidad Valenciana,1999,mujer,84.3
+Comunidad Valenciana,2000,hombre,59.3
+Comunidad Valenciana,2000,mujer,79.8
+Comunidad Valenciana,2001,hombre,58.3
+Comunidad Valenciana,2001,mujer,77.5
+Comunidad Valenciana,2002,hombre,59.1
+Comunidad Valenciana,2002,mujer,78.1
+Comunidad Valenciana,2003,hombre,58.2
+Comunidad Valenciana,2003,mujer,75.7
+Comunidad Valenciana,2004,hombre,55.9
+Comunidad Valenciana,2004,mujer,72.0
+Comunidad Valenciana,2005,hombre,51.8
+Comunidad Valenciana,2005,mujer,68.8
+Comunidad Valenciana,2006,hombre,54.2
+Comunidad Valenciana,2006,mujer,69.2
+Comunidad Valenciana,2007,hombre,52.7
+Comunidad Valenciana,2007,mujer,67.5
+Comunidad Valenciana,2008,hombre,55.7
+Comunidad Valenciana,2008,mujer,70.4
+Comunidad Valenciana,2009,hombre,58.6
+Comunidad Valenciana,2009,mujer,72.6
+Comunidad Valenciana,2010,hombre,58.9
+Comunidad Valenciana,2010,mujer,73.5
+Comunidad Valenciana,2011,hombre,56.2
+Comunidad Valenciana,2011,mujer,70.3
+Comunidad Valenciana,2012,hombre,56.4
+Comunidad Valenciana,2012,mujer,70.2
+Comunidad Valenciana,2013,hombre,60.9
+Comunidad Valenciana,2013,mujer,74.3
+Comunidad Valenciana,2014,hombre,64.3
+Comunidad Valenciana,2014,mujer,74.6
+Comunidad Valenciana,2015,hombre,66.4
+Comunidad Valenciana,2015,mujer,79.3
+Comunidad Valenciana,2016,hombre,60.6
+Comunidad Valenciana,2016,mujer,73.3
+Comunidad Valenciana,2017,hombre,67.4
+Comunidad Valenciana,2017,mujer,80.7
+Comunidad Valenciana,2018,hombre,69.7
+Comunidad Valenciana,2018,mujer,82.0
+Comunidad Valenciana,2019,hombre,77.8
+Comunidad Valenciana,2019,mujer,87.6
+Comunidad Valenciana,2020,hombre,75.6
+Comunidad Valenciana,2020,mujer,86.1
+Comunidad Valenciana,2021,hombre,73.9
+Comunidad Valenciana,2021,mujer,83.1
+Comunidad Valenciana,2022,hombre,73.2
+Comunidad Valenciana,2022,mujer,82.8
+Extremadura,1999,hombre,56.2
+Extremadura,1999,mujer,75.3
+Extremadura,2000,hombre,55.9
+Extremadura,2000,mujer,77.0
+Extremadura,2001,hombre,54.8
+Extremadura,2001,mujer,73.8
+Extremadura,2002,hombre,57.8
+Extremadura,2002,mujer,75.6
+Extremadura,2003,hombre,57.6
+Extremadura,2003,mujer,76.1
+Extremadura,2004,hombre,57.1
+Extremadura,2004,mujer,76.5
+Extremadura,2005,hombre,57.5
+Extremadura,2005,mujer,76.2
+Extremadura,2006,hombre,58.7
+Extremadura,2006,mujer,73.0
+Extremadura,2007,hombre,60.2
+Extremadura,2007,mujer,77.1
+Extremadura,2008,hombre,64.9
+Extremadura,2008,mujer,83.2
+Extremadura,2009,hombre,67.3
+Extremadura,2009,mujer,84.2
+Extremadura,2010,hombre,67.3
+Extremadura,2010,mujer,81.7
+Extremadura,2011,hombre,72.2
+Extremadura,2011,mujer,81.7
+Extremadura,2012,hombre,69.7
+Extremadura,2012,mujer,82.5
+Extremadura,2013,hombre,71.9
+Extremadura,2013,mujer,84.9
+Extremadura,2014,hombre,71.8
+Extremadura,2014,mujer,84.9
+Extremadura,2015,hombre,73.3
+Extremadura,2015,mujer,86.6
+Extremadura,2016,hombre,68.7
+Extremadura,2016,mujer,82.7
+Extremadura,2017,hombre,72.9
+Extremadura,2017,mujer,84.0
+Extremadura,2018,hombre,75.1
+Extremadura,2018,mujer,87.8
+Extremadura,2019,hombre,82.9
+Extremadura,2019,mujer,92.7
+Extremadura,2020,hombre,78.1
+Extremadura,2020,mujer,87.7
+Extremadura,2021,hombre,77.6
+Extremadura,2021,mujer,85.7
+Extremadura,2022,hombre,77.3
+Extremadura,2022,mujer,87.1
+Galicia,1999,hombre,64.1
+Galicia,1999,mujer,82.4
+Galicia,2000,hombre,68.1
+Galicia,2000,mujer,84.0
+Galicia,2001,hombre,68.4
+Galicia,2001,mujer,86.2
+Galicia,2002,hombre,69.0
+Galicia,2002,mujer,84.6
+Galicia,2003,hombre,68.5
+Galicia,2003,mujer,84.2
+Galicia,2004,hombre,66.8
+Galicia,2004,mujer,83.7
+Galicia,2005,hombre,67.8
+Galicia,2005,mujer,83.7
+Galicia,2006,hombre,67.1
+Galicia,2006,mujer,81.3
+Galicia,2007,hombre,66.1
+Galicia,2007,mujer,82.1
+Galicia,2008,hombre,68.0
+Galicia,2008,mujer,83.3
+Galicia,2009,hombre,71.3
+Galicia,2009,mujer,84.3
+Galicia,2010,hombre,73.1
+Galicia,2010,mujer,83.8
+Galicia,2011,hombre,72.8
+Galicia,2011,mujer,85.1
+Galicia,2012,hombre,73.2
+Galicia,2012,mujer,85.6
+Galicia,2013,hombre,73.9
+Galicia,2013,mujer,85.0
+Galicia,2014,hombre,75.0
+Galicia,2014,mujer,87.2
+Galicia,2015,hombre,76.4
+Galicia,2015,mujer,88.9
+Galicia,2016,hombre,71.4
+Galicia,2016,mujer,83.4
+Galicia,2017,hombre,76.0
+Galicia,2017,mujer,84.7
+Galicia,2018,hombre,75.5
+Galicia,2018,mujer,86.7
+Galicia,2019,hombre,84.0
+Galicia,2019,mujer,92.3
+Galicia,2020,hombre,81.7
+Galicia,2020,mujer,90.9
+Galicia,2021,hombre,81.1
+Galicia,2021,mujer,86.6
+Galicia,2022,hombre,77.8
+Galicia,2022,mujer,87.1
+Islas Baleares,1999,hombre,57.3
+Islas Baleares,1999,mujer,73.0
+Islas Baleares,2000,hombre,57.9
+Islas Baleares,2000,mujer,71.4
+Islas Baleares,2001,hombre,62.8
+Islas Baleares,2001,mujer,78.2
+Islas Baleares,2002,hombre,60.0
+Islas Baleares,2002,mujer,72.9
+Islas Baleares,2003,hombre,58.5
+Islas Baleares,2003,mujer,73.4
+Islas Baleares,2004,hombre,59.3
+Islas Baleares,2004,mujer,70.2
+Islas Baleares,2005,hombre,57.6
+Islas Baleares,2005,mujer,71.2
+Islas Baleares,2006,hombre,52.4
+Islas Baleares,2006,mujer,70.9
+Islas Baleares,2007,hombre,56.0
+Islas Baleares,2007,mujer,66.3
+Islas Baleares,2008,hombre,56.9
+Islas Baleares,2008,mujer,71.7
+Islas Baleares,2009,hombre,62.8
+Islas Baleares,2009,mujer,73.3
+Islas Baleares,2010,hombre,61.7
+Islas Baleares,2010,mujer,72.6
+Islas Baleares,2011,hombre,61.5
+Islas Baleares,2011,mujer,73.6
+Islas Baleares,2012,hombre,59.4
+Islas Baleares,2012,mujer,72.2
+Islas Baleares,2013,hombre,64.2
+Islas Baleares,2013,mujer,76.0
+Islas Baleares,2014,hombre,62.7
+Islas Baleares,2014,mujer,76.2
+Islas Baleares,2015,hombre,65.0
+Islas Baleares,2015,mujer,76.3
+Islas Baleares,2016,hombre,65.3
+Islas Baleares,2016,mujer,76.0
+Islas Baleares,2017,hombre,62.9
+Islas Baleares,2017,mujer,78.8
+Islas Baleares,2018,hombre,69.9
+Islas Baleares,2018,mujer,80.4
+Islas Baleares,2019,hombre,76.3
+Islas Baleares,2019,mujer,85.3
+Islas Baleares,2020,hombre,77.6
+Islas Baleares,2020,mujer,84.7
+Islas Baleares,2021,hombre,71.9
+Islas Baleares,2021,mujer,82.2
+Islas Baleares,2022,hombre,73.6
+Islas Baleares,2022,mujer,83.8
+La Rioja,1999,hombre,65.0
+La Rioja,1999,mujer,82.4
+La Rioja,2000,hombre,66.1
+La Rioja,2000,mujer,83.0
+La Rioja,2001,hombre,64.2
+La Rioja,2001,mujer,73.7
+La Rioja,2002,hombre,67.1
+La Rioja,2002,mujer,75.8
+La Rioja,2003,hombre,62.2
+La Rioja,2003,mujer,77.6
+La Rioja,2004,hombre,61.1
+La Rioja,2004,mujer,79.1
+La Rioja,2005,hombre,62.6
+La Rioja,2005,mujer,75.2
+La Rioja,2006,hombre,59.3
+La Rioja,2006,mujer,79.1
+La Rioja,2007,hombre,58.3
+La Rioja,2007,mujer,70.8
+La Rioja,2008,hombre,63.4
+La Rioja,2008,mujer,75.7
+La Rioja,2009,hombre,61.1
+La Rioja,2009,mujer,79.0
+La Rioja,2010,hombre,64.4
+La Rioja,2010,mujer,76.9
+La Rioja,2011,hombre,69.6
+La Rioja,2011,mujer,80.4
+La Rioja,2012,hombre,62.2
+La Rioja,2012,mujer,75.7
+La Rioja,2013,hombre,68.6
+La Rioja,2013,mujer,77.4
+La Rioja,2014,hombre,70.6
+La Rioja,2014,mujer,81.1
+La Rioja,2015,hombre,70.5
+La Rioja,2015,mujer,86.4
+La Rioja,2016,hombre,62.0
+La Rioja,2016,mujer,77.0
+La Rioja,2017,hombre,69.4
+La Rioja,2017,mujer,78.6
+La Rioja,2018,hombre,69.8
+La Rioja,2018,mujer,83.0
+La Rioja,2019,hombre,74.1
+La Rioja,2019,mujer,85.3
+La Rioja,2020,hombre,74.3
+La Rioja,2020,mujer,85.6
+La Rioja,2021,hombre,75.5
+La Rioja,2021,mujer,78.7
+La Rioja,2022,hombre,70.0
+La Rioja,2022,mujer,78.8
+Madrid,1999,hombre,67.8
+Madrid,1999,mujer,81.0
+Madrid,2000,hombre,70.5
+Madrid,2000,mujer,81.7
+Madrid,2001,hombre,69.3
+Madrid,2001,mujer,81.0
+Madrid,2002,hombre,68.4
+Madrid,2002,mujer,80.5
+Madrid,2003,hombre,68.5
+Madrid,2003,mujer,79.7
+Madrid,2004,hombre,69.0
+Madrid,2004,mujer,77.8
+Madrid,2005,hombre,67.1
+Madrid,2005,mujer,77.6
+Madrid,2006,hombre,66.2
+Madrid,2006,mujer,76.9
+Madrid,2007,hombre,69.1
+Madrid,2007,mujer,78.3
+Madrid,2008,hombre,72.5
+Madrid,2008,mujer,80.6
+Madrid,2009,hombre,73.4
+Madrid,2009,mujer,82.6
+Madrid,2010,hombre,75.4
+Madrid,2010,mujer,83.5
+Madrid,2011,hombre,73.5
+Madrid,2011,mujer,82.0
+Madrid,2012,hombre,74.1
+Madrid,2012,mujer,82.9
+Madrid,2013,hombre,76.9
+Madrid,2013,mujer,84.2
+Madrid,2014,hombre,76.7
+Madrid,2014,mujer,85.0
+Madrid,2015,hombre,78.0
+Madrid,2015,mujer,85.2
+Madrid,2016,hombre,73.1
+Madrid,2016,mujer,80.9
+Madrid,2017,hombre,75.3
+Madrid,2017,mujer,83.7
+Madrid,2018,hombre,76.1
+Madrid,2018,mujer,84.3
+Madrid,2019,hombre,83.5
+Madrid,2019,mujer,89.5
+Madrid,2020,hombre,79.9
+Madrid,2020,mujer,87.3
+Madrid,2021,hombre,78.9
+Madrid,2021,mujer,84.5
+Madrid,2022,hombre,79.4
+Madrid,2022,mujer,84.5
+Melilla,1999,hombre,56.0
+Melilla,1999,mujer,48.2
+Melilla,2000,hombre,48.8
+Melilla,2000,mujer,61.8
+Melilla,2001,hombre,52.0
+Melilla,2001,mujer,63.0
+Melilla,2002,hombre,47.5
+Melilla,2002,mujer,60.1
+Melilla,2003,hombre,48.3
+Melilla,2003,mujer,55.9
+Melilla,2004,hombre,57.0
+Melilla,2004,mujer,61.9
+Melilla,2005,hombre,59.3
+Melilla,2005,mujer,62.2
+Melilla,2006,hombre,54.2
+Melilla,2006,mujer,72.3
+Melilla,2007,hombre,52.3
+Melilla,2007,mujer,62.7
+Melilla,2008,hombre,54.7
+Melilla,2008,mujer,58.2
+Melilla,2009,hombre,51.5
+Melilla,2009,mujer,69.9
+Melilla,2010,hombre,57.1
+Melilla,2010,mujer,63.5
+Melilla,2011,hombre,60.8
+Melilla,2011,mujer,73.9
+Melilla,2012,hombre,54.0
+Melilla,2012,mujer,62.2
+Melilla,2013,hombre,57.6
+Melilla,2013,mujer,70.2
+Melilla,2014,hombre,52.7
+Melilla,2014,mujer,73.6
+Melilla,2015,hombre,52.4
+Melilla,2015,mujer,72.5
+Melilla,2016,hombre,50.7
+Melilla,2016,mujer,59.9
+Melilla,2017,hombre,48.9
+Melilla,2017,mujer,62.3
+Melilla,2018,hombre,49.1
+Melilla,2018,mujer,69.3
+Melilla,2019,hombre,64.7
+Melilla,2019,mujer,78.8
+Melilla,2020,hombre,54.0
+Melilla,2020,mujer,68.2
+Melilla,2021,hombre,51.0
+Melilla,2021,mujer,70.4
+Melilla,2022,hombre,58.9
+Melilla,2022,mujer,73.5
+Murcia,1999,hombre,56.6
+Murcia,1999,mujer,72.7
+Murcia,2000,hombre,56.3
+Murcia,2000,mujer,74.4
+Murcia,2001,hombre,58.0
+Murcia,2001,mujer,75.1
+Murcia,2002,hombre,58.1
+Murcia,2002,mujer,74.6
+Murcia,2003,hombre,58.3
+Murcia,2003,mujer,73.2
+Murcia,2004,hombre,57.6
+Murcia,2004,mujer,73.0
+Murcia,2005,hombre,58.9
+Murcia,2005,mujer,73.1
+Murcia,2006,hombre,57.6
+Murcia,2006,mujer,72.6
+Murcia,2007,hombre,58.4
+Murcia,2007,mujer,71.1
+Murcia,2008,hombre,61.3
+Murcia,2008,mujer,74.4
+Murcia,2009,hombre,64.9
+Murcia,2009,mujer,76.3
+Murcia,2010,hombre,65.9
+Murcia,2010,mujer,76.0
+Murcia,2011,hombre,65.4
+Murcia,2011,mujer,76.3
+Murcia,2012,hombre,68.8
+Murcia,2012,mujer,76.3
+Murcia,2013,hombre,68.0
+Murcia,2013,mujer,80.1
+Murcia,2014,hombre,72.0
+Murcia,2014,mujer,83.0
+Murcia,2015,hombre,73.4
+Murcia,2015,mujer,83.2
+Murcia,2016,hombre,69.2
+Murcia,2016,mujer,78.1
+Murcia,2017,hombre,69.9
+Murcia,2017,mujer,80.6
+Murcia,2018,hombre,68.0
+Murcia,2018,mujer,80.7
+Murcia,2019,hombre,73.1
+Murcia,2019,mujer,84.8
+Murcia,2020,hombre,70.1
+Murcia,2020,mujer,81.3
+Murcia,2021,hombre,68.8
+Murcia,2021,mujer,78.0
+Murcia,2022,hombre,72.1
+Murcia,2022,mujer,81.1
+Navarra,1999,hombre,75.5
+Navarra,1999,mujer,85.7
+Navarra,2000,hombre,75.9
+Navarra,2000,mujer,87.9
+Navarra,2001,hombre,73.4
+Navarra,2001,mujer,86.0
+Navarra,2002,hombre,78.9
+Navarra,2002,mujer,85.6
+Navarra,2003,hombre,73.5
+Navarra,2003,mujer,86.4
+Navarra,2004,hombre,76.0
+Navarra,2004,mujer,83.3
+Navarra,2005,hombre,72.6
+Navarra,2005,mujer,83.5
+Navarra,2006,hombre,70.9
+Navarra,2006,mujer,81.6
+Navarra,2007,hombre,72.7
+Navarra,2007,mujer,82.4
+Navarra,2008,hombre,75.8
+Navarra,2008,mujer,83.8
+Navarra,2009,hombre,76.0
+Navarra,2009,mujer,82.0
+Navarra,2010,hombre,73.5
+Navarra,2010,mujer,84.5
+Navarra,2011,hombre,70.7
+Navarra,2011,mujer,82.5
+Navarra,2012,hombre,76.4
+Navarra,2012,mujer,84.1
+Navarra,2013,hombre,77.6
+Navarra,2013,mujer,85.7
+Navarra,2014,hombre,77.8
+Navarra,2014,mujer,88.5
+Navarra,2015,hombre,80.2
+Navarra,2015,mujer,87.4
+Navarra,2016,hombre,78.5
+Navarra,2016,mujer,86.0
+Navarra,2017,hombre,79.4
+Navarra,2017,mujer,86.7
+Navarra,2018,hombre,78.5
+Navarra,2018,mujer,88.4
+Navarra,2019,hombre,83.5
+Navarra,2019,mujer,91.6
+Navarra,2020,hombre,83.6
+Navarra,2020,mujer,89.4
+Navarra,2021,hombre,79.4
+Navarra,2021,mujer,85.0
+Navarra,2022,hombre,79.7
+Navarra,2022,mujer,89.9
+Pais Vasco,1999,hombre,77.9
+Pais Vasco,1999,mujer,86.3
+Pais Vasco,2000,hombre,77.1
+Pais Vasco,2000,mujer,87.7
+Pais Vasco,2001,hombre,76.6
+Pais Vasco,2001,mujer,88.9
+Pais Vasco,2002,hombre,77.9
+Pais Vasco,2002,mujer,88.0
+Pais Vasco,2003,hombre,81.6
+Pais Vasco,2003,mujer,90.0
+Pais Vasco,2004,hombre,78.7
+Pais Vasco,2004,mujer,87.8
+Pais Vasco,2005,hombre,78.1
+Pais Vasco,2005,mujer,89.0
+Pais Vasco,2006,hombre,77.9
+Pais Vasco,2006,mujer,88.3
+Pais Vasco,2007,hombre,80.4
+Pais Vasco,2007,mujer,88.7
+Pais Vasco,2008,hombre,82.1
+Pais Vasco,2008,mujer,89.4
+Pais Vasco,2009,hombre,81.7
+Pais Vasco,2009,mujer,91.2
+Pais Vasco,2010,hombre,83.5
+Pais Vasco,2010,mujer,89.0
+Pais Vasco,2011,hombre,83.0
+Pais Vasco,2011,mujer,88.3
+Pais Vasco,2012,hombre,81.7
+Pais Vasco,2012,mujer,89.3
+Pais Vasco,2013,hombre,80.9
+Pais Vasco,2013,mujer,88.7
+Pais Vasco,2014,hombre,82.0
+Pais Vasco,2014,mujer,87.6
+Pais Vasco,2015,hombre,82.6
+Pais Vasco,2015,mujer,90.9
+Pais Vasco,2016,hombre,82.3
+Pais Vasco,2016,mujer,90.0
+Pais Vasco,2017,hombre,81.5
+Pais Vasco,2017,mujer,90.5
+Pais Vasco,2018,hombre,82.4
+Pais Vasco,2018,mujer,90.0
+Pais Vasco,2019,hombre,86.8
+Pais Vasco,2019,mujer,92.3
+Pais Vasco,2020,hombre,87.3
+Pais Vasco,2020,mujer,92.2
+Pais Vasco,2021,hombre,83.5
+Pais Vasco,2021,mujer,90.4
+Pais Vasco,2022,hombre,83.6
+Pais Vasco,2022,mujer,89.9

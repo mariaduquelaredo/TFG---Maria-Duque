@@ -1,0 +1,229 @@
+ccaa,year,sexo,tasanetaFP_superior
+Andalucia,2016,hombre,19.8
+Andalucia,2016,mujer,24.3
+Andalucia,2017,hombre,22.0
+Andalucia,2017,mujer,27.8
+Andalucia,2018,hombre,24.3
+Andalucia,2018,mujer,30.2
+Andalucia,2019,hombre,21.9
+Andalucia,2019,mujer,28.9
+Andalucia,2020,hombre,32.3
+Andalucia,2020,mujer,39.9
+Andalucia,2021,hombre,29.9
+Andalucia,2021,mujer,37.8
+Aragon,2016,hombre,26.1
+Aragon,2016,mujer,23.0
+Aragon,2017,hombre,28.7
+Aragon,2017,mujer,24.9
+Aragon,2018,hombre,28.9
+Aragon,2018,mujer,23.5
+Aragon,2019,hombre,24.6
+Aragon,2019,mujer,19.3
+Aragon,2020,hombre,34.9
+Aragon,2020,mujer,29.7
+Aragon,2021,hombre,30.6
+Aragon,2021,mujer,26.8
+Asturias,2016,hombre,27.8
+Asturias,2016,mujer,27.0
+Asturias,2017,hombre,30.4
+Asturias,2017,mujer,27.8
+Asturias,2018,hombre,30.5
+Asturias,2018,mujer,30.1
+Asturias,2019,hombre,26.6
+Asturias,2019,mujer,27.4
+Asturias,2020,hombre,43.4
+Asturias,2020,mujer,41.1
+Asturias,2021,hombre,35.5
+Asturias,2021,mujer,33.0
+Canarias,2016,hombre,24.3
+Canarias,2016,mujer,28.8
+Canarias,2017,hombre,25.5
+Canarias,2017,mujer,30.9
+Canarias,2018,hombre,25.1
+Canarias,2018,mujer,30.3
+Canarias,2019,hombre,25.3
+Canarias,2019,mujer,30.8
+Canarias,2020,hombre,31.9
+Canarias,2020,mujer,37.6
+Canarias,2021,hombre,28.5
+Canarias,2021,mujer,34.9
+Cantabria,2016,hombre,29.0
+Cantabria,2016,mujer,28.8
+Cantabria,2017,hombre,32.5
+Cantabria,2017,mujer,33.9
+Cantabria,2018,hombre,32.5
+Cantabria,2018,mujer,38.7
+Cantabria,2019,hombre,29.4
+Cantabria,2019,mujer,34.6
+Cantabria,2020,hombre,37.7
+Cantabria,2020,mujer,40.1
+Cantabria,2021,hombre,34.6
+Cantabria,2021,mujer,37.2
+Castilla La Mancha,2016,hombre,20.2
+Castilla La Mancha,2016,mujer,21.7
+Castilla La Mancha,2017,hombre,21.4
+Castilla La Mancha,2017,mujer,23.4
+Castilla La Mancha,2018,hombre,20.3
+Castilla La Mancha,2018,mujer,21.8
+Castilla La Mancha,2019,hombre,19.4
+Castilla La Mancha,2019,mujer,21.3
+Castilla La Mancha,2020,hombre,27.3
+Castilla La Mancha,2020,mujer,30.5
+Castilla La Mancha,2021,hombre,24.1
+Castilla La Mancha,2021,mujer,27.0
+Castilla y Leon,2016,hombre,25.5
+Castilla y Leon,2016,mujer,22.7
+Castilla y Leon,2017,hombre,27.2
+Castilla y Leon,2017,mujer,25.0
+Castilla y Leon,2018,hombre,29.4
+Castilla y Leon,2018,mujer,24.6
+Castilla y Leon,2019,hombre,23.1
+Castilla y Leon,2019,mujer,21.6
+Castilla y Leon,2020,hombre,35.5
+Castilla y Leon,2020,mujer,32.8
+Castilla y Leon,2021,hombre,30.6
+Castilla y Leon,2021,mujer,25.9
+Cataluña,2016,hombre,27.4
+Cataluña,2016,mujer,28.5
+Cataluña,2017,hombre,28.0
+Cataluña,2017,mujer,30.2
+Cataluña,2018,hombre,29.7
+Cataluña,2018,mujer,32.9
+Cataluña,2019,hombre,32.1
+Cataluña,2019,mujer,35.1
+Cataluña,2020,hombre,33.2
+Cataluña,2020,mujer,37.1
+Cataluña,2021,hombre,35.3
+Cataluña,2021,mujer,43.9
+Ceuta,2016,hombre,11.5
+Ceuta,2016,mujer,18.0
+Ceuta,2017,hombre,13.2
+Ceuta,2017,mujer,26.3
+Ceuta,2018,hombre,14.0
+Ceuta,2018,mujer,27.6
+Ceuta,2019,hombre,13.6
+Ceuta,2019,mujer,28.4
+Ceuta,2020,hombre,13.4
+Ceuta,2020,mujer,24.4
+Ceuta,2021,hombre,13.0
+Ceuta,2021,mujer,35.1
+Comunidad Valenciana,2016,hombre,21.3
+Comunidad Valenciana,2016,mujer,22.6
+Comunidad Valenciana,2017,hombre,25.2
+Comunidad Valenciana,2017,mujer,26.9
+Comunidad Valenciana,2018,hombre,25.2
+Comunidad Valenciana,2018,mujer,26.8
+Comunidad Valenciana,2019,hombre,25.9
+Comunidad Valenciana,2019,mujer,27.2
+Comunidad Valenciana,2020,hombre,30.4
+Comunidad Valenciana,2020,mujer,31.3
+Comunidad Valenciana,2021,hombre,29.6
+Comunidad Valenciana,2021,mujer,31.3
+Extremadura,2016,hombre,19.8
+Extremadura,2016,mujer,24.5
+Extremadura,2017,hombre,23.3
+Extremadura,2017,mujer,27.4
+Extremadura,2018,hombre,24.4
+Extremadura,2018,mujer,27.0
+Extremadura,2019,hombre,21.6
+Extremadura,2019,mujer,22.9
+Extremadura,2020,hombre,29.2
+Extremadura,2020,mujer,30.4
+Extremadura,2021,hombre,25.8
+Extremadura,2021,mujer,27.5
+Galicia,2016,hombre,27.6
+Galicia,2016,mujer,28.7
+Galicia,2017,hombre,32.1
+Galicia,2017,mujer,32.2
+Galicia,2018,hombre,32.0
+Galicia,2018,mujer,32.3
+Galicia,2019,hombre,29.0
+Galicia,2019,mujer,29.7
+Galicia,2020,hombre,40.2
+Galicia,2020,mujer,39.3
+Galicia,2021,hombre,37.1
+Galicia,2021,mujer,35.0
+Islas Baleares,2016,hombre,11.1
+Islas Baleares,2016,mujer,11.4
+Islas Baleares,2017,hombre,12.9
+Islas Baleares,2017,mujer,14.1
+Islas Baleares,2018,hombre,14.3
+Islas Baleares,2018,mujer,15.4
+Islas Baleares,2019,hombre,12.1
+Islas Baleares,2019,mujer,15.4
+Islas Baleares,2020,hombre,19.9
+Islas Baleares,2020,mujer,19.1
+Islas Baleares,2021,hombre,17.6
+Islas Baleares,2021,mujer,20.3
+La Rioja,2016,hombre,22.1
+La Rioja,2016,mujer,23.4
+La Rioja,2017,hombre,26.1
+La Rioja,2017,mujer,25.3
+La Rioja,2018,hombre,26.2
+La Rioja,2018,mujer,26.2
+La Rioja,2019,hombre,24.8
+La Rioja,2019,mujer,24.0
+La Rioja,2020,hombre,31.3
+La Rioja,2020,mujer,32.9
+La Rioja,2021,hombre,29.2
+La Rioja,2021,mujer,28.6
+Madrid,2016,hombre,22.0
+Madrid,2016,mujer,21.2
+Madrid,2017,hombre,28.0
+Madrid,2017,mujer,26.3
+Madrid,2018,hombre,26.7
+Madrid,2018,mujer,25.6
+Madrid,2019,hombre,21.4
+Madrid,2019,mujer,20.9
+Madrid,2020,hombre,32.5
+Madrid,2020,mujer,31.1
+Madrid,2021,hombre,33.2
+Madrid,2021,mujer,31.0
+Melilla,2016,hombre,16.3
+Melilla,2016,mujer,25.7
+Melilla,2017,hombre,16.3
+Melilla,2017,mujer,21.4
+Melilla,2018,hombre,20.6
+Melilla,2018,mujer,25.3
+Melilla,2019,hombre,15.2
+Melilla,2019,mujer,29.8
+Melilla,2020,hombre,19.5
+Melilla,2020,mujer,31.6
+Melilla,2021,hombre,17.3
+Melilla,2021,mujer,24.7
+Murcia,2016,hombre,19.9
+Murcia,2016,mujer,21.0
+Murcia,2017,hombre,22.3
+Murcia,2017,mujer,24.2
+Murcia,2018,hombre,23.3
+Murcia,2018,mujer,27.6
+Murcia,2019,hombre,20.9
+Murcia,2019,mujer,25.2
+Murcia,2020,hombre,28.7
+Murcia,2020,mujer,37.3
+Murcia,2021,hombre,27.2
+Murcia,2021,mujer,32.3
+Navarra,2016,hombre,22.1
+Navarra,2016,mujer,19.4
+Navarra,2017,hombre,24.9
+Navarra,2017,mujer,19.7
+Navarra,2018,hombre,25.1
+Navarra,2018,mujer,19.7
+Navarra,2019,hombre,25.5
+Navarra,2019,mujer,22.6
+Navarra,2020,hombre,30.0
+Navarra,2020,mujer,23.5
+Navarra,2021,hombre,27.1
+Navarra,2021,mujer,23.5
+Pais Vasco,2016,hombre,44.3
+Pais Vasco,2016,mujer,31.3
+Pais Vasco,2017,hombre,50.2
+Pais Vasco,2017,mujer,32.7
+Pais Vasco,2018,hombre,49.4
+Pais Vasco,2018,mujer,31.7
+Pais Vasco,2019,hombre,46.1
+Pais Vasco,2019,mujer,30.3
+Pais Vasco,2020,hombre,50.0
+Pais Vasco,2020,mujer,34.4
+Pais Vasco,2021,hombre,49.2
+Pais Vasco,2021,mujer,33.2

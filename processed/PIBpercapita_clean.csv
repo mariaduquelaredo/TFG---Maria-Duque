@@ -1,0 +1,476 @@
+ccaa,year,PIB_per_capita
+Andalucia,2000,11882.0
+Andalucia,2001,12799.0
+Andalucia,2002,13617.0
+Andalucia,2003,14593.0
+Andalucia,2004,15561.0
+Andalucia,2005,16564.0
+Andalucia,2006,17589.0
+Andalucia,2007,18504.0
+Andalucia,2008,18638.0
+Andalucia,2009,17685.0
+Andalucia,2010,17567.0
+Andalucia,2011,17299.0
+Andalucia,2012,16597.0
+Andalucia,2013,16381.0
+Andalucia,2014,16600.0
+Andalucia,2015,17458.0
+Andalucia,2016,17865.0
+Andalucia,2017,18691.0
+Andalucia,2018,19291.0
+Andalucia,2019,19744.0
+Andalucia,2020,17772.0
+Andalucia,2021,19591.0
+Andalucia,2022,21569.0
+Andalucia,2023,23165.0
+Andalucia,2024,24542.0
+Aragon,2000,17016.0
+Aragon,2001,18231.0
+Aragon,2002,19492.0
+Aragon,2003,20570.0
+Aragon,2004,21676.0
+Aragon,2005,22932.0
+Aragon,2006,24484.0
+Aragon,2007,26080.0
+Aragon,2008,26519.0
+Aragon,2009,25150.0
+Aragon,2010,25375.0
+Aragon,2011,25015.0
+Aragon,2012,24008.0
+Aragon,2013,24232.0
+Aragon,2014,24557.0
+Aragon,2015,25185.0
+Aragon,2016,26243.0
+Aragon,2017,27357.0
+Aragon,2018,28281.0
+Aragon,2019,29043.0
+Aragon,2020,27003.0
+Aragon,2021,29144.0
+Aragon,2022,32717.0
+Aragon,2023,34742.0
+Aragon,2024,36699.0
+Asturias,2000,13279.0
+Asturias,2001,14340.0
+Asturias,2002,15188.0
+Asturias,2003,16039.0
+Asturias,2004,17055.0
+Asturias,2005,18482.0
+Asturias,2006,20059.0
+Asturias,2007,21416.0
+Asturias,2008,21987.0
+Asturias,2009,20778.0
+Asturias,2010,20992.0
+Asturias,2011,20706.0
+Asturias,2012,19867.0
+Asturias,2013,19475.0
+Asturias,2014,19588.0
+Asturias,2015,20497.0
+Asturias,2016,20913.0
+Asturias,2017,21897.0
+Asturias,2018,22651.0
+Asturias,2019,23220.0
+Asturias,2020,21069.0
+Asturias,2021,23446.0
+Asturias,2022,26544.0
+Asturias,2023,28130.0
+Asturias,2024,29660.0
+Canarias,2000,14985.0
+Canarias,2001,16143.0
+Canarias,2002,16815.0
+Canarias,2003,17480.0
+Canarias,2004,17980.0
+Canarias,2005,18708.0
+Canarias,2006,19484.0
+Canarias,2007,20276.0
+Canarias,2008,20476.0
+Canarias,2009,19421.0
+Canarias,2010,19355.0
+Canarias,2011,19099.0
+Canarias,2012,18317.0
+Canarias,2013,18160.0
+Canarias,2014,18268.0
+Canarias,2015,18881.0
+Canarias,2016,19450.0
+Canarias,2017,20296.0
+Canarias,2018,20853.0
+Canarias,2019,21159.0
+Canarias,2020,17239.0
+Canarias,2021,19021.0
+Canarias,2022,22238.0
+Canarias,2023,24256.0
+Canarias,2024,25861.0
+Cantabria,2000,14966.0
+Cantabria,2001,16156.0
+Cantabria,2002,17099.0
+Cantabria,2003,17801.0
+Cantabria,2004,18744.0
+Cantabria,2005,19981.0
+Cantabria,2006,21184.0
+Cantabria,2007,22423.0
+Cantabria,2008,22852.0
+Cantabria,2009,21834.0
+Cantabria,2010,21850.0
+Cantabria,2011,21435.0
+Cantabria,2012,20691.0
+Cantabria,2013,20299.0
+Cantabria,2014,20747.0
+Cantabria,2015,21329.0
+Cantabria,2016,22072.0
+Cantabria,2017,22922.0
+Cantabria,2018,23818.0
+Cantabria,2019,24515.0
+Cantabria,2020,22279.0
+Cantabria,2021,24303.0
+Cantabria,2022,26506.0
+Cantabria,2023,28392.0
+Cantabria,2024,29893.0
+Castilla La Mancha,2000,12804.0
+Castilla La Mancha,2001,13834.0
+Castilla La Mancha,2002,14677.0
+Castilla La Mancha,2003,15581.0
+Castilla La Mancha,2004,16368.0
+Castilla La Mancha,2005,17443.0
+Castilla La Mancha,2006,18543.0
+Castilla La Mancha,2007,19578.0
+Castilla La Mancha,2008,19891.0
+Castilla La Mancha,2009,18959.0
+Castilla La Mancha,2010,18864.0
+Castilla La Mancha,2011,18569.0
+Castilla La Mancha,2012,17941.0
+Castilla La Mancha,2013,17720.0
+Castilla La Mancha,2014,17480.0
+Castilla La Mancha,2015,18499.0
+Castilla La Mancha,2016,19149.0
+Castilla La Mancha,2017,20043.0
+Castilla La Mancha,2018,20811.0
+Castilla La Mancha,2019,21264.0
+Castilla La Mancha,2020,19675.0
+Castilla La Mancha,2021,21515.0
+Castilla La Mancha,2022,24156.0
+Castilla La Mancha,2023,25090.0
+Castilla La Mancha,2024,26291.0
+Castilla y Leon,2000,14453.0
+Castilla y Leon,2001,15429.0
+Castilla y Leon,2002,16371.0
+Castilla y Leon,2003,17310.0
+Castilla y Leon,2004,18329.0
+Castilla y Leon,2005,19448.0
+Castilla y Leon,2006,20604.0
+Castilla y Leon,2007,21805.0
+Castilla y Leon,2008,22108.0
+Castilla y Leon,2009,21374.0
+Castilla y Leon,2010,21487.0
+Castilla y Leon,2011,21378.0
+Castilla y Leon,2012,20823.0
+Castilla y Leon,2013,20474.0
+Castilla y Leon,2014,20694.0
+Castilla y Leon,2015,21600.0
+Castilla y Leon,2016,22369.0
+Castilla y Leon,2017,23076.0
+Castilla y Leon,2018,24216.0
+Castilla y Leon,2019,24849.0
+Castilla y Leon,2020,22934.0
+Castilla y Leon,2021,25020.0
+Castilla y Leon,2022,27511.0
+Castilla y Leon,2023,29273.0
+Castilla y Leon,2024,30887.0
+Cataluña,2000,19464.0
+Cataluña,2001,20979.0
+Cataluña,2002,21898.0
+Cataluña,2003,22841.0
+Cataluña,2004,23962.0
+Cataluña,2005,25141.0
+Cataluña,2006,26743.0
+Cataluña,2007,28033.0
+Cataluña,2008,28217.0
+Cataluña,2009,26956.0
+Cataluña,2010,27096.0
+Cataluña,2011,26644.0
+Cataluña,2012,25937.0
+Cataluña,2013,25928.0
+Cataluña,2014,26551.0
+Cataluña,2015,27806.0
+Cataluña,2016,28781.0
+Cataluña,2017,29770.0
+Cataluña,2018,30525.0
+Cataluña,2019,31300.0
+Cataluña,2020,27796.0
+Cataluña,2021,30360.0
+Cataluña,2022,33043.0
+Cataluña,2023,35600.0
+Cataluña,2024,37477.0
+Ceuta,2000,13367.0
+Ceuta,2001,13813.0
+Ceuta,2002,14680.0
+Ceuta,2003,15593.0
+Ceuta,2004,16358.0
+Ceuta,2005,17135.0
+Ceuta,2006,18107.0
+Ceuta,2007,19051.0
+Ceuta,2008,19584.0
+Ceuta,2009,19077.0
+Ceuta,2010,18532.0
+Ceuta,2011,17986.0
+Ceuta,2012,17094.0
+Ceuta,2013,17229.0
+Ceuta,2014,17123.0
+Ceuta,2015,17757.0
+Ceuta,2016,18155.0
+Ceuta,2017,18262.0
+Ceuta,2018,18923.0
+Ceuta,2019,19577.0
+Ceuta,2020,18184.0
+Ceuta,2021,19661.0
+Ceuta,2022,21273.0
+Ceuta,2023,22413.0
+Ceuta,2024,23070.0
+Comunidad Valenciana,2000,15243.0
+Comunidad Valenciana,2001,16521.0
+Comunidad Valenciana,2002,17246.0
+Comunidad Valenciana,2003,17855.0
+Comunidad Valenciana,2004,18637.0
+Comunidad Valenciana,2005,19528.0
+Comunidad Valenciana,2006,20709.0
+Comunidad Valenciana,2007,21537.0
+Comunidad Valenciana,2008,21766.0
+Comunidad Valenciana,2009,20462.0
+Comunidad Valenciana,2010,20419.0
+Comunidad Valenciana,2011,20069.0
+Comunidad Valenciana,2012,19171.0
+Comunidad Valenciana,2013,19137.0
+Comunidad Valenciana,2014,19641.0
+Comunidad Valenciana,2015,20500.0
+Comunidad Valenciana,2016,21110.0
+Comunidad Valenciana,2017,21996.0
+Comunidad Valenciana,2018,22723.0
+Comunidad Valenciana,2019,23248.0
+Comunidad Valenciana,2020,20980.0
+Comunidad Valenciana,2021,22944.0
+Comunidad Valenciana,2022,24715.0
+Comunidad Valenciana,2023,26512.0
+Comunidad Valenciana,2024,27626.0
+Extremadura,2000,10490.0
+Extremadura,2001,11250.0
+Extremadura,2002,12000.0
+Extremadura,2003,12777.0
+Extremadura,2004,13608.0
+Extremadura,2005,14717.0
+Extremadura,2006,15611.0
+Extremadura,2007,16704.0
+Extremadura,2008,17263.0
+Extremadura,2009,16744.0
+Extremadura,2010,16950.0
+Extremadura,2011,16560.0
+Extremadura,2012,15953.0
+Extremadura,2013,16028.0
+Extremadura,2014,16053.0
+Extremadura,2015,16993.0
+Extremadura,2016,17616.0
+Extremadura,2017,18761.0
+Extremadura,2018,19368.0
+Extremadura,2019,19863.0
+Extremadura,2020,18351.0
+Extremadura,2021,20363.0
+Extremadura,2022,22250.0
+Extremadura,2023,23891.0
+Extremadura,2024,25224.0
+Galicia,2000,12390.0
+Galicia,2001,13364.0
+Galicia,2002,14240.0
+Galicia,2003,15196.0
+Galicia,2004,16304.0
+Galicia,2005,17605.0
+Galicia,2006,19010.0
+Galicia,2007,20387.0
+Galicia,2008,21107.0
+Galicia,2009,20314.0
+Galicia,2010,20488.0
+Galicia,2011,20139.0
+Galicia,2012,19541.0
+Galicia,2013,19636.0
+Galicia,2014,19876.0
+Galicia,2015,20934.0
+Galicia,2016,21594.0
+Galicia,2017,22433.0
+Galicia,2018,23212.0
+Galicia,2019,23901.0
+Galicia,2020,21864.0
+Galicia,2021,23927.0
+Galicia,2022,26570.0
+Galicia,2023,28661.0
+Galicia,2024,30191.0
+Islas Baleares,2000,20045.0
+Islas Baleares,2001,21350.0
+Islas Baleares,2002,21837.0
+Islas Baleares,2003,22109.0
+Islas Baleares,2004,22975.0
+Islas Baleares,2005,24054.0
+Islas Baleares,2006,25259.0
+Islas Baleares,2007,26092.0
+Islas Baleares,2008,26377.0
+Islas Baleares,2009,24832.0
+Islas Baleares,2010,24638.0
+Islas Baleares,2011,24324.0
+Islas Baleares,2012,23810.0
+Islas Baleares,2013,23719.0
+Islas Baleares,2014,24454.0
+Islas Baleares,2015,25732.0
+Islas Baleares,2016,26922.0
+Islas Baleares,2017,28001.0
+Islas Baleares,2018,28906.0
+Islas Baleares,2019,29458.0
+Islas Baleares,2020,22611.0
+Islas Baleares,2021,25807.0
+Islas Baleares,2022,31030.0
+Islas Baleares,2023,33995.0
+Islas Baleares,2024,36093.0
+La Rioja,2000,17965.0
+La Rioja,2001,19093.0
+La Rioja,2002,19791.0
+La Rioja,2003,20933.0
+La Rioja,2004,21689.0
+La Rioja,2005,22851.0
+La Rioja,2006,24361.0
+La Rioja,2007,25488.0
+La Rioja,2008,25954.0
+La Rioja,2009,24741.0
+La Rioja,2010,25035.0
+La Rioja,2011,24748.0
+La Rioja,2012,23961.0
+La Rioja,2013,23898.0
+La Rioja,2014,24586.0
+La Rioja,2015,25594.0
+La Rioja,2016,25713.0
+La Rioja,2017,26585.0
+La Rioja,2018,27470.0
+La Rioja,2019,28040.0
+La Rioja,2020,25654.0
+La Rioja,2021,27365.0
+La Rioja,2022,30433.0
+La Rioja,2023,32412.0
+La Rioja,2024,34125.0
+Madrid,2000,21177.0
+Madrid,2001,22875.0
+Madrid,2002,23904.0
+Madrid,2003,24973.0
+Madrid,2004,26394.0
+Madrid,2005,28020.0
+Madrid,2006,30136.0
+Madrid,2007,31555.0
+Madrid,2008,32125.0
+Madrid,2009,31364.0
+Madrid,2010,31059.0
+Madrid,2011,31147.0
+Madrid,2012,30566.0
+Madrid,2013,30264.0
+Madrid,2014,30776.0
+Madrid,2015,32275.0
+Madrid,2016,33350.0
+Madrid,2017,34592.0
+Madrid,2018,35601.0
+Madrid,2019,36613.0
+Madrid,2020,32853.0
+Madrid,2021,35703.0
+Madrid,2022,39246.0
+Madrid,2023,42639.0
+Madrid,2024,44749.0
+Melilla,2000,13350.0
+Melilla,2001,13708.0
+Melilla,2002,14478.0
+Melilla,2003,15570.0
+Melilla,2004,16650.0
+Melilla,2005,17256.0
+Melilla,2006,18066.0
+Melilla,2007,18495.0
+Melilla,2008,18800.0
+Melilla,2009,18284.0
+Melilla,2010,17661.0
+Melilla,2011,17144.0
+Melilla,2012,16035.0
+Melilla,2013,15981.0
+Melilla,2014,15999.0
+Melilla,2015,16506.0
+Melilla,2016,16979.0
+Melilla,2017,17051.0
+Melilla,2018,17531.0
+Melilla,2019,18073.0
+Melilla,2020,16776.0
+Melilla,2021,17891.0
+Melilla,2022,19433.0
+Melilla,2023,20454.0
+Melilla,2024,21118.0
+Murcia,2000,13679.0
+Murcia,2001,14704.0
+Murcia,2002,15531.0
+Murcia,2003,16376.0
+Murcia,2004,17152.0
+Murcia,2005,18178.0
+Murcia,2006,19274.0
+Murcia,2007,20228.0
+Murcia,2008,20636.0
+Murcia,2009,19383.0
+Murcia,2010,19479.0
+Murcia,2011,18957.0
+Murcia,2012,18444.0
+Murcia,2013,18502.0
+Murcia,2014,18606.0
+Murcia,2015,19901.0
+Murcia,2016,20402.0
+Murcia,2017,21128.0
+Murcia,2018,21393.0
+Murcia,2019,22015.0
+Murcia,2020,20108.0
+Murcia,2021,22087.0
+Murcia,2022,24263.0
+Murcia,2023,25536.0
+Murcia,2024,26944.0
+Navarra,2000,20562.0
+Navarra,2001,21747.0
+Navarra,2002,22841.0
+Navarra,2003,23848.0
+Navarra,2004,25096.0
+Navarra,2005,26586.0
+Navarra,2006,28111.0
+Navarra,2007,29307.0
+Navarra,2008,29937.0
+Navarra,2009,28569.0
+Navarra,2010,28487.0
+Navarra,2011,28279.0
+Navarra,2012,27184.0
+Navarra,2013,27213.0
+Navarra,2014,27704.0
+Navarra,2015,28761.0
+Navarra,2016,29556.0
+Navarra,2017,30631.0
+Navarra,2018,31190.0
+Navarra,2019,32136.0
+Navarra,2020,28987.0
+Navarra,2021,31486.0
+Navarra,2022,34720.0
+Navarra,2023,36987.0
+Navarra,2024,39096.0
+Pais Vasco,2000,19553.0
+Pais Vasco,2001,20895.0
+Pais Vasco,2002,21985.0
+Pais Vasco,2003,23079.0
+Pais Vasco,2004,24431.0
+Pais Vasco,2005,26103.0
+Pais Vasco,2006,28055.0
+Pais Vasco,2007,29700.0
+Pais Vasco,2008,30636.0
+Pais Vasco,2009,29215.0
+Pais Vasco,2010,29538.0
+Pais Vasco,2011,29261.0
+Pais Vasco,2012,28589.0
+Pais Vasco,2013,28277.0
+Pais Vasco,2014,28843.0
+Pais Vasco,2015,29962.0
+Pais Vasco,2016,30833.0
+Pais Vasco,2017,31891.0
+Pais Vasco,2018,32835.0
+Pais Vasco,2019,33590.0
+Pais Vasco,2020,30115.0
+Pais Vasco,2021,32898.0
+Pais Vasco,2022,36280.0
+Pais Vasco,2023,39041.0
+Pais Vasco,2024,41010.0

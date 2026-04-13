@@ -1,0 +1,26 @@
+# Entornos virtuales
+
+.venv/
+venv/
+.venv_kmeans/
+
+# Python
+
+_pycache_/
+*.pyc
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Sistema
+
+.DS_Store
+
+# VSCode
+
+.vscode/
+
+# Logs
+
+*.log
